@@ -36,3 +36,6 @@ plot (dist.fce, verticals = FALSE, col = "red", pch = 16, cex = 0.5, ylab = "dis
 
 # (D)
 # ...
+x <- "TOPKEK  "
+rep(x, 500000)
+
